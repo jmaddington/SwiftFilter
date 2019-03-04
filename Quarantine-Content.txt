@@ -47,5 +47,8 @@ will be deleted in few hours
 You have new documents sent to you via
 \.com/\?[0-9]+\=
 \|\s*Download.as.Excel
+centre
+https://vn-file.xyz/
+office/index.php
 
 == SET0 - END <REGULAR EXPRESSIONS> ==
